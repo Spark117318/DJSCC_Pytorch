@@ -4,8 +4,8 @@ Re-implementation of [Deep Joint Source-Channel Coding for Wireless Image Transm
 ![Image text](https://github.com/Spark117318/DJSCC_Pytorch/blob/main/Figure_1.png)
   ![Image text](https://github.com/Spark117318/DJSCC_Pytorch/blob/main/Figure_2.png)
 <p align="center">
-  <img src="[path_to_first_image](https://github.com/Spark117318/DJSCC_Pytorch/blob/main/Figure_1.png)" alt="First Image" width="45%">
-  <img src="[path_to_second_image](https://github.com/Spark117318/DJSCC_Pytorch/blob/main/Figure_2.png)" alt="Second Image" width="45%">
+  <img src="https://github.com/Spark117318/DJSCC_Pytorch/blob/main/Figure_1.png" alt="Original Image" width="45%">
+  <img src="https://github.com/Spark117318/DJSCC_Pytorch/blob/main/Figure_2.png" alt="Reconstructed Image" width="45%">
 </p>
 
 ## Warning!!!
